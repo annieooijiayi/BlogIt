@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090447520236",
+    "firebase_url": "https://blogit-e5db8.firebaseio.com",
+    "project_id": "blogit-e5db8",
+    "storage_bucket": "blogit-e5db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090447520236:android:2736e354966ce8b3eb10c9",
+        "android_client_info": {
+          "package_name": "student.inti.blogit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090447520236-eg64c63o3smnjc8bgom86qgd2a6svm08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.blogit",
+            "certificate_hash": "82d6656898f23b0f7fb4e47dfccb0cbaa7d55f75"
+          }
+        },
+        {
+          "client_id": "1090447520236-46lq29ta1glibei2osg3ddcmr4sois49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HJmqjwm1ks9PQ1DJKUcDtDobaidfTMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090447520236-46lq29ta1glibei2osg3ddcmr4sois49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
